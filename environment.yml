@@ -1,0 +1,20 @@
+name: pictophrase
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - tensorflow
+  - matplotlib
+  - Flask
+  - numpy
+  - opencv
+  - pillow
+  - gtts
+  - playsound
+  - nltk
+  - language-tool-python
+  - pydub
+  - pip
+  - pip:
+      - playsound==1.2.2  # Because playsound from pip

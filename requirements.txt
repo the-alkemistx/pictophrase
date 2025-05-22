@@ -1,0 +1,11 @@
+tensorflow
+matplotlib
+Flask
+numpy
+opencv-python
+Pillow
+gTTS
+playsound==1.2.2
+nltk
+language-tool-python
+pydub
